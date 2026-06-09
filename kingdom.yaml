@@ -1,0 +1,8 @@
+name: concrescenceme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The process of becoming-determinate in which many prior feelings and influences grow together into one new unified occasion of experience.
+dependsOn: [youspeak, me, prehensionme, autopoieme]
